@@ -1,2 +1,2 @@
 # Email
-Triggered Email、GroupMail
+Person Email Tesing By Triggered Email And Group Sending Email.

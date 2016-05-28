@@ -1,0 +1,2 @@
+# Email
+Triggered Email、GroupMail
